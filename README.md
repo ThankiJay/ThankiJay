@@ -9,11 +9,11 @@ Hello there! My name is Jay Thanki, and I'm currently pursuing a Master's degree
 ## Education
 
 - **Master of Science in Data Science** _(expected graduation: [May 2024])_
-  - [University At Buffalo], [Buffalo, NY]
+  - University At Buffalo, Buffalo, NY
   - Relevant Courses: Data Analysis, Machine Learning, Big Data Technologies, Data Visualization.
 
-- **Bachelor of Engineering in [Computer Engineering]** _(May 2022)_
-  - [University Of Mumbai], [Mumbai, India]
+- **Bachelor of Engineering in Computer Engineering** _(May 2022)_
+  - University Of Mumbai, Mumbai, India
 
 
 ## Skills
@@ -37,7 +37,7 @@ Hello there! My name is Jay Thanki, and I'm currently pursuing a Master's degree
 
 ## Contact Me
 
-I'm always open to connecting with fellow data enthusiasts, professionals, or potential collaborators. Feel free to reach out to me via email at [jaythankey17@gmail.com] or connect with me on [LinkedIn]([https://www.linkedin.com/in/yourusername](https://www.linkedin.com/in/jay-thanki-31b14827a/)https://www.linkedin.com/in/jay-thanki-31b14827a/).
+I'm always open to connecting with fellow data enthusiasts, professionals, or potential collaborators. Feel free to reach out to me via email at jaythankey17@gmail.com or connect with me on [LinkedIn]([https://www.linkedin.com/in/yourusername](https://www.linkedin.com/in/jay-thanki-31b14827a/)https://www.linkedin.com/in/jay-thanki-31b14827a/).
 
 Looking forward to connecting with you!
 
