@@ -1,6 +1,6 @@
 # Welcome to My Data Science Master's Journey!
 
-![Data Science Banner](https://example.com/data_science_banner.jpg)
+![Data Science Banner](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1801/karpenkoilia180100086/94505925-vector-line-web-banner-for-data-science.jpg)
 
 ## About Me
 
