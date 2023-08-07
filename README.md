@@ -8,7 +8,7 @@ Hello there! My name is Jay Thanki, and I'm currently pursuing a Master's degree
 
 ## Education
 
-- **Master of Science in Data Science** _(expected graduation: [May 2024])_
+- **Master of Science in Data Science** _(expected graduation: May 2024)_
   - University At Buffalo, Buffalo, NY
   - Relevant Courses: Data Analysis, Machine Learning, Big Data Technologies, Data Visualization.
 
