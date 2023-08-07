@@ -21,7 +21,7 @@ Hello there! My name is Jay Thanki, and I'm currently pursuing a Master's degree
 - **Programming Languages:** Python, R, SQL
 - **Data Analysis:** Pandas, NumPy, SciPy
 - **Machine Learning:** Scikit-learn, TensorFlow, Keras
-- **Data Visualization:** Matplotlib, Seaborn, Plotly
+- **Data Visualization:** Matplotlib, Seaborn, Plotly, Yellowbrick
 - **Big Data Tools:** Apache Spark, Hadoop
 - **Database Management:** MySQL, PostgreSQL
 - **Version Control:** Git, GitHub
