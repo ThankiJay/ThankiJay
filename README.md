@@ -4,7 +4,7 @@
 
 ## About Me
 
-Hello there! My name is Jay Thanki, and I'm currently pursuing a Master's degree in Data Science from the University at Buffalo. I have a passion for exploring data, uncovering insights, and using data-driven approaches to solve real-world problems. This GitHub repository serves as a journal of my learning and project accomplishments throughout my Data Science journey.
+Hello there! My name is Jay Thanki, and I'm currently pursuing a Master's degree in Data Science from the University at Buffalo. I have a passion for exploring data, uncovering insights, and using data-driven approaches to solve real-world problems. This GitHub repository serves as a journal of my learning and project accomplishments throughout my Data Science journey. If you have any questions or comments, please don't hesitate to reach out.
 
 ## Education
 
