@@ -15,6 +15,11 @@ Hello there! My name is Jay Thanki, and I'm currently pursuing a Master's degree
 - **Bachelor of Engineering in Computer Engineering** _(May 2022)_
   - University Of Mumbai, Mumbai, India
 
+## Experience
+
+- **Data Science Intern** _(June 2022 - Oct 2022)_
+  - BDB.ai, Bangalore, India
+
 
 ## Skills
 
