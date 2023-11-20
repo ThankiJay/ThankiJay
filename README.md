@@ -31,16 +31,6 @@ Hello there! My name is Jay Thanki, and I'm currently pursuing a Master's degree
 - **Database Management:** MySQL, SQLite
 - **Version Control:** Git, GitHub
 
-## Certifications
-
-- [Certification Name 1] _(Month Year)_
-  - Description: Briefly describe the certification and its relevance to your data science journey.
-
-- [Certification Name 2] _(Month Year)_
-  - Description: Briefly describe the certification and its relevance to your data science journey.
-
-
-## Contact Me
 
 I'm always open to connecting with fellow data enthusiasts, professionals, or potential collaborators. Feel free to reach out to me via email at jaythankey17@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/jay-thanki-31b14827a/)
 
