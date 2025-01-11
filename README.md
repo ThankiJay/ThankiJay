@@ -1,4 +1,4 @@
-# Welcome to My Data Science Master's Journey!
+# Welcome to my Github!
 
 ![Data Science Banner](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1801/karpenkoilia180100086/94505925-vector-line-web-banner-for-data-science.jpg)
 
@@ -8,7 +8,7 @@ Hello there! My name is Jay Thanki, and I'm currently pursuing a Master's degree
 
 ## Education
 
-- **Master of Science in Data Science** _(expected graduation: May 2024)_
+- **Master of Science in Data Science** _(Jan 2025)_
   - University At Buffalo, Buffalo, NY
   - Relevant Courses: Data Analysis, Machine Learning, Big Data Technologies, Data Visualization.
 
@@ -16,7 +16,10 @@ Hello there! My name is Jay Thanki, and I'm currently pursuing a Master's degree
   - University Of Mumbai, Mumbai, India
 
 ## Experience
-
+- **Data Scientist ** _(Jan 2025 - Present)_
+- **Research Assistant ** _(Jan 2024 - Dec 2024)_
+  - Roy Lab, Buffalo, NY
+    
 - **Data Science Intern** _(June 2022 - Oct 2022)_
   - BDB.ai, Bangalore, India
 
@@ -32,7 +35,7 @@ Hello there! My name is Jay Thanki, and I'm currently pursuing a Master's degree
 - **Version Control:** Git, GitHub
 
 
-I'm always open to connecting with fellow data enthusiasts, professionals, or potential collaborators. Feel free to reach out to me via email at jaythankey17@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/jay-thanki-31b14827a/)
+I'm always open to connecting with fellow data enthusiasts, professionals, or potential collaborators. Feel free to reach out to me via email at jayyoges@buffalo.edu or connect with me on [LinkedIn](https://www.linkedin.com/in/jay-thanki-31b14827a/)
 
 Looking forward to connecting with you!
 
