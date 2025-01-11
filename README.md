@@ -6,14 +6,6 @@
 
 Hello there! My name is Jay Thanki, and I'm a Data Scientist in the Roy Lab at the Jacobs School Of Medicine & Biomedical Sciences, University at Buffalo. I have a passion for exploring data, uncovering insights, and using data-driven approaches to solve real-world problems. This GitHub repository serves as a journal of my learning and project accomplishments throughout my Data Science journey. If you have any questions or comments, please don't hesitate to reach out.
 
-## Education
-
-- **Master of Science in Data Science** _(Jan 2025)_
-  - University At Buffalo, Buffalo, NY
-  - Relevant Courses: Data Analysis, Machine Learning, Big Data Technologies, Data Visualization.
-
-- **Bachelor of Engineering in Computer Engineering** _(May 2022)_
-  - University Of Mumbai, Mumbai, India
 
 ## Experience
 - **Data Scientist** _(Jan 2025 - Present)_
@@ -22,6 +14,16 @@ Hello there! My name is Jay Thanki, and I'm a Data Scientist in the Roy Lab at t
     
 - **Data Science Intern** _(June 2022 - Oct 2022)_
   - BDB.ai, Bangalore, India
+
+    
+## Education
+
+- **Master of Science in Data Science** _(Jan 2025)_
+  - University At Buffalo, Buffalo, NY
+  - Relevant Courses: Data Analysis, Machine Learning, Big Data Technologies, Data Visualization.
+
+- **Bachelor of Engineering in Computer Engineering** _(May 2022)_
+  - University Of Mumbai, Mumbai, India
 
 
 ## Skills
